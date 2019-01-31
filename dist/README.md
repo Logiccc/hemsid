@@ -20,7 +20,8 @@ Har lärt mig lite, inte ett skit fungerade dock.
 Är tokläss på pug.
 Fick nog 0.5% gjort denna lektion. Skit bra :-)
 
+Planering för 2019-01-31:
+Fortsätt lära sig pug och försöka få klart något design mässigt iaf. Men det lär ju gå åt helvette det också.
 
-
-
-
+Utvärdering för 2019-01-31:
+Har lagt till en nav-bar på sidan, men den länkar inte till något ännu, jag fick ett error när jag skulle rendera pug till html, som tog en bra stund att lösa. Lösningen: terminalen var inne i src mappen så den hittade förstoss inte src mappen när den försökte rendera. Det var ett knasigt scenario
