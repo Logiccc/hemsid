@@ -36,3 +36,22 @@ Planering för 2019-02-20:
 Försöka få in någon design på sidan iaf, hemsidan ser fortfarande ut som en paprika och jag har lärt mig absolut 0 pug/bootstrap/vaddettanuhetersomviarbetarmed.jaha på snart en hel månad som vi har arbetat på detta. (Inte ett maskineri presterande från min sida, jag vet.)
 
 För hoppningsvis så kanske jag kan få in lite bilder iaf idag, men det kvarstå att se, har inga förhoppningar och jag lär ju endå misslyckas med det också. :-/
+
+
+Utverdering för 2019-02-20:
+Kl är 09:08 och jag är hardstuck på att få en bild på sidan, jag har gjort img(scr"blahablaha.jpg") men bilden är bara en liten plutt ruta som är gråare än tant agdas hår. lyckas inte heller göra så att jag kan ändra bilden i css, eftersom att vad jag än ger bilden för id eller class namn så känner inte css för att hitta igen vad i pilsnerkorvs namn jag sysslar med och är därmed helt oanvändbart. (Kommer nog att dra en 'ree' eller två inom kort om inte bilden bestämmer sig för att träda fram snart.) >:(
+
+Kl är nu 09:11, jag har spenderat två minuter på denna rant, jag känner att det var väl använd tid eftersom att jag nu känner mig lite lugnare efter att ha fått ut lite ilska i form av oanvändbar text. :-|
+
+kl 09:13, juste jag har också försökt att ändra på bilden genom att skriva width och height i själva img 'taggen'? Heter det taggar i pug? vet inte, bryr mig inte. dab. 
+Iaf...det hjälpte inte heller och jag har nu spenderat uterligen två minuter på att ranta om bilden.
+
+Uppdatering kl 09:15, det är uppernbarligen bara fel på min adress som jag har angett till bilden, jag lade till en 'alt' och den kom up gallant och graciöst på min sida, ska investigera ifall om det var just bildsadressen som var boven.
+
+09:16, lade till hela adressen till bilden + bildnamn, men den vill fortfarande inte dyka upp på sidan och jag börjar känna mig besegrad.
+
+Snart är det rast och jag har inte fått något gjort som kommer att påverka min sida positivt hitils idag. 
+Det är redovisning av hemsidan efter rast och jag har absolut 0 att redovisa, önska mig tur framtida jag.
+
+
+
